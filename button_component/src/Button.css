@@ -1,0 +1,33 @@
+.btn{
+    color: gray;
+    background-color: black;
+
+}
+
+
+.large{
+    width: 200px;
+    background-color: aquamarine;
+    margin: 5px;
+}
+.small{
+    size: 100px;
+    background-color: brown;
+}
+.medium{
+    width:150px;
+    height: 35px;
+    background-color: cadetblue;
+
+}
+.btn1{
+    background-color: coral;
+    height: 60px;
+}
+.btn1:hover{
+background-color: darkgoldenrod;
+}
+.App{
+    display: flex;
+    
+}
