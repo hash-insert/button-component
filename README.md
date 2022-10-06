@@ -1,2 +1,2 @@
-# button-component
-Refer https://hashinsert.notion.site/Button-Component-48f4d3c276f74153b5d53704441259e7
+
+![Screenshot (128)](https://user-images.githubusercontent.com/105298914/194283195-2e6567f2-df58-4c4f-bbdf-ae8f055c82ba.png)
