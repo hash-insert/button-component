@@ -1,0 +1,37 @@
+.btn{
+    color: gray;
+    background-color: rgb(245, 231, 231);
+
+}
+
+
+.large{
+    width: 200px;
+    background-color: orangered;
+    margin: 5px;
+}
+.small{
+    size: 100px;
+    background-color: blue;
+}
+.medium{
+    width:150px;
+    height: 35px;
+    background-color: green;
+
+}
+.hoverbtn{
+    background-color: orangered;
+    height: 60px;
+}
+.hoverbtn:hover{
+background-color: yellow;
+}
+.countbtn{
+    background-color: blueviolet;
+    color: azure;
+}
+.App{
+    /* display: flex; */
+
+}
