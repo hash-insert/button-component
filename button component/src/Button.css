@@ -16,13 +16,13 @@
 }
 .medium{
     width:150px;
-    height: 35px;
+    height: 40px;
     background-color: green;
 
 }
 .hoverbtn{
     background-color: orangered;
-    height: 60px;
+    height: 40px;
 }
 .hoverbtn:hover{
 background-color: yellow;
