@@ -1,0 +1,33 @@
+.submit {
+    background-color: blue;
+    color: white;
+    width: 200px;
+  }
+  
+  .reset {
+    background-color: gray;
+    color: white;
+    height: 50px;
+  }
+  
+  .default {
+    background-color: green;
+    color: white;
+    width: 200px;
+    height: 50px;
+  }
+  
+  .large {
+    background-color: orange;
+    color: black;
+    height: 125px;
+    padding-inline-start: 5px;
+  }
+  
+  .small {
+    background-color: blueviolet;
+    color: white;
+    margin-bottom: 5px;
+    padding: 0%;
+  }
+  
